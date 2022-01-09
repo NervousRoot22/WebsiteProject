@@ -1,0 +1,19 @@
+.nav-wrapper{
+    border: 2px solid black;
+    background-color: papayawhip;
+   
+}
+.introduction1{
+    background-image: url("images/image2.jpg");
+    text-align: center;
+}
+h1.introduction2{
+    font-family: Apple Chancery,cursive;
+    font-size: 400%;
+    font-style: italic;
+}
+p.introduction2{
+    font-family: Apple Chancery,cursive;
+    font-size: 170%;
+    color:darkblue;
+}
